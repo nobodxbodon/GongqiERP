@@ -1,1 +1,19 @@
-中文测试
+Global setup:
+Set up git
+git config --global user.name "$USERNAME"
+git config --global user.email $EMAIL
+
+Next steps:
+mkdir GongqiERP
+cd GongqiERP
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin git@github.com:$ACCOUNTID/GongqiERP.git
+git push -u origin master
+
+Existing Git Repo?
+cd existing_git_repo
+git remote add origin git@github.com:$ACCOUNTID/GongqiERP.git
+git push -u origin master

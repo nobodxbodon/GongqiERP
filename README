@@ -3,7 +3,10 @@ Set up git
 git config --global user.name "$USERNAME"
 git config --global user.email $EMAIL
 
-Next steps:
+Check out from url:
+git clone git@github.com:nobodxbodon/GongqiERP.git
+
+Create a new Repository:
 mkdir GongqiERP
 cd GongqiERP
 git init

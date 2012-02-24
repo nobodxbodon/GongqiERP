@@ -21,4 +21,3 @@ cd existing_git_repo
 git remote add origin git@github.com:$ACCOUNTID/GongqiERP.git
 git push -u origin master
 
-test collaborator

@@ -8,7 +8,7 @@ import org.apache.log4j.Logger;
 public class LoadOnStartUp extends HttpServlet
 {
 	/**
-	 * 
+	 * ÖĞÎÄÄÚÈİ²âÊÔ
 	 */
 	private static final long serialVersionUID = -8508382541271613459L;
 
